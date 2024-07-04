@@ -1,0 +1,1 @@
+([('main', '/Users/florianpaulus/Desktop/Py_Flet/dist/main', 'EXECUTABLE')],)
